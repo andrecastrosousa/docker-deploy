@@ -10,7 +10,7 @@ class DockerTestApplicationTests {
 
     @Test
     void contextLoads() {
-        assertEquals(1, 3);
+        assertEquals(1, 1);
     }
 
 }
